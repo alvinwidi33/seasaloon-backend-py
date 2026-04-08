@@ -5,5 +5,5 @@ medicine/migrations
 medicine/__pycache__
 treatment/migrations
 treatment/__pycache__
-prescription/migrations
-prescription/__pycache__
+invoice/migrations
+invoice/__pycache__
